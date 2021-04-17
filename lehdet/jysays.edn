@@ -1,0 +1,82 @@
+{
+    :lehdennimi "Jysäys"
+    :tarinalista [{
+        :tekija "Abolin, Georges & Pont, Olivier:"
+        :tarinat [{
+            :nimike "Katseen kantamattomissa"
+            :julk "Jysäys 1 / 2004"
+        } ]
+    } {
+        :tekija "Chaland, Yves:"
+        :tarinat [{
+            :nimike "Piko & Fantasio"
+            :julk "Jysäys 1/2004"
+        } ]
+    } {
+        :tekija "Cuadraro:"
+        :tarinat [{
+            :nimike "Petteri & Patteri"
+            :julk "Jysäys 1/2004, 1/2005"
+        } ]
+    } {
+        :tekija "Dupuy & Berberian:"
+        :tarinat [{
+            :nimike "Henriette"
+            :julk "Jysäys 1/2004, 1/2005"
+        } ]
+    } {
+        :tekija "Frissen, Jerry & Davis, Guy:"
+        :tarinat [{
+            :nimike "Zombiet jotka söivät maailman - Perhedraama lähiöhelvetissä"
+            :julk "Jysäys 1/2005"
+        } ]
+    } {
+        :tekija "Grojnowski, Olivier & Corcal:"
+        :tarinat [{
+            :nimike "Roihuvuori"
+            :julk "Jysäys 1/2004, 1/2005"
+        } ]
+    } {
+        :tekija "Hiltunen, Petri:"
+        :tarinat [{
+            :nimike "Praedor - Daryc vaeltaja"
+            :julk "Jysäys 1/2004"
+        } {
+            :nimike "Praedor - Stalar"
+            :julk "Jysäys 1/2005"
+        } ]
+    } {
+        :tekija "Pierrelegall & Franklegall:"
+        :tarinat [{
+            :nimike "Pinimustatarina"
+            :julk "Jysäys 1/2004"
+        } ]
+    } {
+        :tekija "Ratia, Mattipekka:"
+        :tarinat [{
+            :nimike "Nakki ja Tappi"
+            :julk "Jysäys 1/2004"
+        } {
+            :nimike "Tuntematon"
+            :julk "Jysäys 1/2004"
+        } ]
+    } {
+        :tekija "Rauhala, Anssi:"
+        :tarinat [{
+            :nimike "Kopterikytät"
+            :julk "Jysäys 1/2004"
+        } ]
+    } {
+        :tekija "Zidrou & de Pins, Arthur:"
+        :tarinat [{
+            :nimike "Bioutifoulland"
+            :julk "Jysäys 1/2005"
+        } ]
+    } {
+        :tekija "Zidrou, Constant & B�a:"
+        :tarinat [{
+            :nimike "Minun pihani"
+            :julk "Jysäys 1/2005"
+        } ]
+    }]
+}
