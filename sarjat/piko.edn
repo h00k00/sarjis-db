@@ -440,6 +440,14 @@
                 :numero ""
                 :alkupnimi "Co eurs d'Acier"
             }]
-        }
+        }{
+            :tekija "Tarrin & Neidhardt"
+            :tarinat [{
+                :numero ". "
+                :alkupnimi "Spirou chez les Soviets"
+                :nimike "Pikon ja Fantasion uudet seikkailut 17: Piko ja Fantasio Neuvostoliitossa"
+                :julk "Egmont - 2021"
+            }]
+        } 
     ]
 }

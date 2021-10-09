@@ -143,6 +143,11 @@
             :nimike "Asterix 24: Asterix Belgiassa"
             :julk "Sanoma Oy - 1979"
         } {
+            :numero "32. "
+            :alkupnimi "La Rentrée Gauloise"
+            :nimike "Asterix 32: Gallialainen kertotaulu"
+            :julk "Egmont - 2003"
+        } {
             :numero "34. "
             :alkupnimi "L'anniversaire d'Astérix et Obélix"
             :nimike "Asterix 34: Asterixin ja Obelixin syntymäpäivä"
@@ -168,8 +173,8 @@
         } {
             :numero "28. "
             :alkupnimi "Astérix chez Rahazade"
-            :nimike ""
-            :julk ""
+            :nimike "Asterix seikkailee 28: Asterix Intiassa"
+            :julk "Egmont - 2020"
         } {
             :numero "29. "
             :alkupnimi "La rose et le glaive - 1991"
@@ -203,6 +208,11 @@
             :alkupnimi "Astérix et la Transitalique - 2017"
             :nimike "Asterix seikkailee 37: Kilpa-ajo halki Italian"
             :julk "Egmont - 2017"
+        }{
+            :numero "38. "
+            :alkupnimi "La Fille de Vercingétorix"
+            :nimike "Asterix seikkailee 38: Vercingetorixin tytär"
+            :julk "Egmont - 2019"
         }]
     }]
 }

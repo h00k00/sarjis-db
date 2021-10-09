@@ -7,18 +7,18 @@
             :tarinat [{
                 :numero "1."
                 :alkupnimi "La magicienne trahie- 1980"
-                :nimike "Noitanaisen kosto"
-                :julk "Mustanaamio 23-24/1995"
+                :nimike "Lumoojattaren kosto"
+                :julk "WSOY - 2018"
             } {
                 :numero "2."
                 :alkupnimi "L'�le des mers gel�es- 1980"
-                :nimike "Jäinen saari"
-                :julk "Mustanaamio 4-5/1996"
+                :nimike "Jäämerten saari"
+                :julk "WSOY - 2019"
             } {
                 :numero "3."
                 :alkupnimi "Les trois vieillards du pays d'Aran- 1981"
-                :nimike "Aranin noidat"
-                :julk "Mustanaamio 10-12/1996"
+                :nimike "Aranin maan kolme vanhusta"
+                :julk "WSOY - 2019"
             } {
                 :numero "4."
                 :alkupnimi "La gal�re noire- 1982"

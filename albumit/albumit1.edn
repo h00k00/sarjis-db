@@ -597,6 +597,10 @@
                     :nimike "Merkintöjä Burmasta"
                     :alkupnimi "Chroniques Birmanes"
                     :julk "WSOY - 2008"
+                } {
+                    :nimike "Factory Summers"
+                    :alkupnimi ""
+                    :julk "Drawn & Quarterly - 2021"
                 }]
             } {
                 :tekija "Derib"
@@ -1150,6 +1154,18 @@
                             :nimike "Punaparta kokoelma 3: Espanjalainen ansa"
                             :alkupnimi "Le Piège Espagnol"
                             :julk "Egmont - 2020"
+                        } {
+                            :nimike "Punaparta kokoelma 4: Mustan haukan loppu"
+                            :alkupnimi "La Fin du Faucon Noir"
+                            :julk "Egmont - 2021"
+                        } {
+                            :nimike "Punaparta kokoelma 4: Elävänä tai kuolleena"
+                            :alkupnimi "Mort ou Vif"
+                            :julk "Egmont - 2021"
+                        } {
+                            :nimike "Punaparta kokoelma 4: Punaparran aarre"
+                            :alkupnimi "Le Trésor de Barbe-Rouge"
+                            :julk "Egmont - 2021"
                         } {
                             :nimike "Zoom kuukauden seikkailu 11: Punaparta - Varpushaukan salainen matka"
                             :alkupnimi "La mission secréte de l'épervier"
