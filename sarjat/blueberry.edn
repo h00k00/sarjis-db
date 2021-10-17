@@ -216,15 +216,21 @@
         } {
             :numero "6. "
             :alkupnimi "Le Raid Infernal- 1990"
+            :nimike "Blueberryn nuoruus 1: Helvetillinen tehtävä"
+            :julk "Semic - 1991"
         }]
     } {
         :tekija "Corteggiani & Wilson"
         :tarinat [{
             :numero "7. "
             :alkupnimi "La poursuite impitoyable- 1992"
+            :nimike "Blueberryn nuoruus 2: Säälimätön takaa-ajo"
+            :julk "Jalava - 1992"
         } {
             :numero "8. "
             :alkupnimi "Trois Hommes pour Atlanta- 1993"
+            :nimike "Blueberryn nuoruus 3: Atlantan hurjapäät"
+            :julk "Semic - 1993"
         } {
             :numero "9. "
             :alkupnimi "Le Prix du Sang- 1994"
